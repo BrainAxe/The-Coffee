@@ -1,14 +1,14 @@
 {
-  "name": "first_app",
+  "name": "the_coffee",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build:css": "tailwind build src/css/tailwind.css -o ./public/css/tailwind.css"
+    "build:css": "tailwind build src/css/tailwind.css -o ./docs/css/tailwind.css"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "autoprefixer": "^10.2.1",
     "postcss": "^8.2.3",
